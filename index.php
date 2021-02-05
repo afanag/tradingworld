@@ -1,5 +1,7 @@
 <?php
 
-phpifno();
+//phpifno();
+
+include config . php;
 
 ?>
