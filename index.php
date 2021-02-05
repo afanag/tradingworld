@@ -1,7 +1,6 @@
 <?php
 
 //phpifno();
-
-include config . php;
+require_once("config.php");
 
 ?>
